@@ -13,25 +13,29 @@ Este projeto consiste na implementação de classes em JavaScript para represent
 
 ## 📚 Instruções de Uso
 - Clone o repositório para sua máquina local.
-- Abra o arquivo character.js no seu editor de código favorito.
+- Abra o arquivo index.js no seu editor de código favorito.
 - Execute o código em um ambiente JavaScript compatível.
+  
 
-````````
-> Cria um novo personagem
 
+> Cria um novo personagem, exemplo:
+
+```````
 let mage = new Character("Adalberto", 21, "mage");
+````````
 
 
->  Realiza um ataque usando magia
-
-mage.attacked("magic");
+>  Realiza um ataque usando magia, exemplo:
 
 ````````
+mage.attacked("magic");
+````````
+
 
 ## 🌐 Funcionalidades Principais
 
 Criação de personagens com nome, idade e categoria.
-Capacidade de atacar usando diferentes tipos de ataques, como magia, espada, artes marciais e shuriken.
+Capacidade de atacar usando diferentes tipos de ataques, como magia, espada, artes marciais e shuriken. Podendo adicionar outras demais que a sua imaginação permitir.
 
 
 ## Considerações Finais
