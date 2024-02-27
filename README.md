@@ -21,14 +21,14 @@ Este projeto consiste na implementação de classes em JavaScript para represent
 > Cria um novo personagem, exemplo:
 
 ```````
-let mage = new Character("Adalberto", 21, "mage");
+let figure = new Character("Adalberto", 21, "mage");
 ````````
 
 
 >  Realiza um ataque usando magia, exemplo:
 
 ````````
-mage.attacked("magic");
+figure.attacked("magic");
 ````````
 
 
